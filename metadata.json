@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Real-Time Sync Dashboard",
+  "description": "Ensures consistent statistics across dev and production environments with synchronized Supabase data and animated video call-to-action elements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
